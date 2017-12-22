@@ -42,6 +42,6 @@ https://youtu.be/SAKKIu_lxtI
 Game Stills: 
 ![Game Impression](/PRESS/PRESS.jpg)
 
-![Gameplay 1](/PRESS/swarm1)
+![Gameplay 1](/PRESS/swarm1.jpg)
 
-![Gameplay 2](/PRESS/swarm)
+![Gameplay 2](/PRESS/swarm.jpg)
