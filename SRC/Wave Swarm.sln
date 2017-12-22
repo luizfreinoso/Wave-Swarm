@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{06D982F8-553D-4A04-CD59-D533744C192C}") = "Wave Swarm", "Assembly-CSharp-firstpass.csproj", "{D6AB44CF-9660-4ADB-D47C-7746C118E4E8}"
+EndProject
+Project("{06D982F8-553D-4A04-CD59-D533744C192C}") = "Wave Swarm", "Assembly-CSharp.csproj", "{EFAB38C7-A468-BCAD-04F7-59A67850B87B}"
+EndProject
+Project("{06D982F8-553D-4A04-CD59-D533744C192C}") = "Wave Swarm", "Assembly-CSharp-Editor.csproj", "{2584E2DF-D6B2-80C2-6871-678583B5DE41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6AB44CF-9660-4ADB-D47C-7746C118E4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6AB44CF-9660-4ADB-D47C-7746C118E4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6AB44CF-9660-4ADB-D47C-7746C118E4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6AB44CF-9660-4ADB-D47C-7746C118E4E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFAB38C7-A468-BCAD-04F7-59A67850B87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFAB38C7-A468-BCAD-04F7-59A67850B87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFAB38C7-A468-BCAD-04F7-59A67850B87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFAB38C7-A468-BCAD-04F7-59A67850B87B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2584E2DF-D6B2-80C2-6871-678583B5DE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2584E2DF-D6B2-80C2-6871-678583B5DE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2584E2DF-D6B2-80C2-6871-678583B5DE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2584E2DF-D6B2-80C2-6871-678583B5DE41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

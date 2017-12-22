@@ -1,0 +1,16 @@
+--------------- Wave Swarm --------------------
+
+This game was made in the UCL university from Manguinhos, ES - Brazil during the Global Jam 2017 event.
+
+
+The theme of the Jam was Waves, and the team resposible for developing this game though in the idea of doing a game where the player have to reach the Goddess Iemanjá while jumping over a few waves in order to offer her an present in order to stop the waves.
+
+The Player must press space in order to jump.
+
+Team:
+
+João Ozires de Souza Dalvi - Programmer and Designer and Animator;
+Geraldo Pereira - FX Sounds and Music;
+Luiz Fernando Rinoso - 3d Modeler and texture artist;
+Renan da Silva Duarte - Programmer and Designer;
+Éder Ferreira Silva - Designer;
